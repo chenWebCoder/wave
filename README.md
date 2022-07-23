@@ -1,2 +1,9 @@
 # wave
-config Form
+
+### 📦 Install
+
+`
+$ pnpm install
+
+$ pnpm run dev
+`

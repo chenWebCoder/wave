@@ -1,0 +1,8 @@
+**/*.svg
+**/*.ejs
+**/*.html
+
+packages/**/*.md
+.umi
+.umi-production
+.umi-test

@@ -1,0 +1,19 @@
+{
+  "name": "@wave/components",
+  "version": "1.0.0",
+  "description": "render bu config",
+  "main": "lib/index.js",
+  "module": "es/index.esm.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "es",
+    "lib",
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
